@@ -1,0 +1,15 @@
+This spider will:
+
+1. Name of agency 
+2. Contact Person (COO, VP or Manager level contacts) 
+3. Email Address
+4. Company website
+5. Location
+6. Partnership Level (Diamond, Platinum, Gold or Silver agency partner)
+7. export to excel
+
+
+To run:
+
+scrapy crawl hubspot_agencies
+
